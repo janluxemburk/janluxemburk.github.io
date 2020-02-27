@@ -98,7 +98,7 @@ code {
 /* Homepage */
 .image-avatar {
   float: right;
-  padding: 0 0 10px 10px;
+  padding: 0 0 20px 20px;
 }
 
 @media only screen and (max-width : 670px) {
