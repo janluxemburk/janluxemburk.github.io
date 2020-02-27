@@ -107,3 +107,7 @@ code {
     padding: 0;
   }
 }
+
+#computer-security-student-web-developer-pentester + p {
+  text-align: justify;
+}
